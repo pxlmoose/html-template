@@ -1,0 +1,58 @@
+.email-background {
+    background: #eee;
+    padding: 10px;
+}
+
+.email-container {
+    max-width: 500px;
+    background: white;
+    font-family: sans-serif;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.pre-header {
+    max-width: 500px;
+    background: #eee;
+    color: #eee;
+    font-size: 5px;
+}
+
+img {
+    max-width: 100%;
+} 
+
+p {
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #666;
+    line-height: 1.5;
+}
+
+.cta {
+    margin: 20px 
+}
+
+.cta a {
+    text-decoration: none;
+    display: inline-block;
+    background: #3D87F5;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.footer-junk {
+    max-width: 500px;
+    background: none;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+}
